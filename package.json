@@ -1,0 +1,23 @@
+{
+  "name": "aqa-advanced",
+  "version": "1.0.0",
+  "description": "QA Automation Node homework",
+  "homepage": "https://github.com/Macs87/AQA-advanced#readme",
+  "bugs": {
+    "url": "https://github.com/Macs87/AQA-advanced/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Macs87/AQA-advanced.git"
+  },
+  "license": "ISC",
+  "author": "Maksym",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "chalk": "^5.6.2"
+  }
+}
